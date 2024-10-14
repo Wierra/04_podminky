@@ -19,4 +19,3 @@ if (ageUser >= age) {
 } else {
     document.body.innerHTML += "<p>Nízký věk uživatele.</p>"
 }
-
