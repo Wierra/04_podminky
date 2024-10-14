@@ -9,9 +9,6 @@ Vytvořte novou stránku, nebo pokračujte ve stránce z předchozí lekce pro r
 2. Napište první podmínku, ve které zkontrolujte, že věk uživatele je větší nebo roven 65. Pokud ano, vypište do stránky „věk v pořádku“. Pokud uživateli není alespoň 65 let, vypište „nízký věk“.
 3. Napište druhou podmínku, která zkontroluje, zda je zadané heslo delší než osm znaků. Pokud není, vypište „slabé heslo“. Heslo se bude kontrolovat pouze v případě, kdy uživatel splnil první podmínku (věk alespoň 65 let).
 
-
-
-
 ## Cena vstupenky
 Pokusme se o základ jednoduchého rezervačního sestému pro vstupenky do divadla.
 
